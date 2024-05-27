@@ -3,6 +3,7 @@ RENCANA TIMO
 -belajar
   ^ngoding
   ^masak
+  ^cara bernalar
 -lari 200k
 -baca buku
   ^skin in the game
