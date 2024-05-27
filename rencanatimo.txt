@@ -1,0 +1,10 @@
+RENCANA TIMO
+
+-belajar
+  ^ngoding
+  ^masak
+-baca buku
+-motret
+  ^museum
+  ^streetphotography
+-makan
