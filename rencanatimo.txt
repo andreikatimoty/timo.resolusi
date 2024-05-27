@@ -3,6 +3,7 @@ RENCANA TIMO
 -belajar
   ^ngoding
   ^masak
+-lari 200k
 -baca buku
 -motret
   ^museum
