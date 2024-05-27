@@ -11,5 +11,6 @@ RENCANA TIMO
   ^museum
   ^streetphotography
 -makan
-  ^bakso 12 bungkus
+  ^sate 200 tusuk
 -beli buku baru
+
