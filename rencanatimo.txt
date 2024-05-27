@@ -3,9 +3,12 @@ RENCANA TIMO
 -belajar
   ^ngoding
   ^masak
--lari 200k
+  ^angular
+  ^react
+  ^cara bernalar
 -baca buku
 -motret
   ^museum
   ^streetphotography
 -makan
+  ^sate 200 tusuk
